@@ -3,7 +3,7 @@
 
 FIRST: Pre-requisites
 
-1.	Install the MATLAB Compiler Runtime 2012a on your computer (attached with the template)
+1.	Install the MATLAB Compiler Runtime 2012a on your computer 
 
 2.	Restart the computer
 
